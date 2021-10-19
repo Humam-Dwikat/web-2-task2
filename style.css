@@ -1,0 +1,26 @@
+
+.container{
+ 
+border: 1px solid black;
+margin: auto;
+text-align: center;
+}
+
+.flex-img{
+  
+    width: 20%;
+}
+.X1 {
+ padding: 20px;
+ display: flex;
+ flex-wrap: wrap;
+ border: 1px solid black;
+ justify-content: space-around;
+ 
+}
+.X1 img{
+ border: 1px solid black;
+margin-top: 20px;
+
+}
+
